@@ -5,4 +5,8 @@ class Post
     @title = title
     @author = author
   end
+
 end
+
+
+drake = Post.new("Drake", "rap")
