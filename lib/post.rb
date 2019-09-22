@@ -7,5 +7,3 @@ class Post
   end
 
 end
-
-
